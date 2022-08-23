@@ -1,4 +1,4 @@
-# Predicting-Credit-Card-Fraud-with-R
+# Credit Card Fraud Detection Using ML
 Coursera Project Aug’20 – Oct’20
 - Leverage credit card transactions’ data to ensure a customer’s financial security by identifying fraudulent transactions
 - Utilized caret and smote family package in R to create random test-train dataset and balanced it using 3 techniques
